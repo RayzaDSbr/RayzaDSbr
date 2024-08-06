@@ -1,5 +1,5 @@
 - 👋 Ola, eu sou @RayzaDSbr
-- 💟 Estudante de Analise e Desenvolvimento de Sistemas na Escola Técnica Estadual Centro Paula Souza
+- 💟 Estudante de Analise e Desenvolvimento de Sistemas na FAM
 - 🌱 Futura Dev
 - 🙂 Pronomes: Ela/Dela
 
