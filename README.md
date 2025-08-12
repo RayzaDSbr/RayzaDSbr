@@ -1,5 +1,5 @@
 - 👋 Ola, eu sou @RayzaDSbr
-- 💟 Estudante de Analise e Desenvolvimento de Sistemas na FAM
+- 💟 Estudante de Analise e Desenvolvimento de Sistemas
 - 🌱 Futura Dev
 - 🙂 Pronomes: Ela/Dela
 
